@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "untitled folder 2",
+			"path": "."
+		},
+		{
+			"name": "kwitter",
+			"path": "../kwitter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "untitled folder 2"
+	}
+}
